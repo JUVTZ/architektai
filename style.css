@@ -96,10 +96,6 @@ section{
     height: 180px;
     display: inline-block;
     margin: 25px;
-    background-image: url(smallfoto/hous.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
 }
 
 h3{
@@ -108,4 +104,70 @@ h3{
     color: white;
     padding: 10px;
     font-family: bahnschrift;
+}
+
+.pirmas{
+    background-image: url(smallfoto/summerhouse.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.antras{
+    background-image: url(smallfoto/brickhouse.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.trecias{
+    background-image: url(smallfoto/renovated.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.ketvirtas{
+    background-image: url(smallfoto/barnhouse.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.penktas{
+    background-image: url(smallfoto/summerhouse2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.sestas{
+    background-image: url(smallfoto/brickhouse2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.septintas{
+    background-image: url(smallfoto/renovated2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.astuntas{
+    background-image: url(smallfoto/barnhouse2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+footer{
+    width: 100%;
+    height: 90px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    
 }
